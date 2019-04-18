@@ -1,0 +1,11 @@
+C:\mahesh\vs2017\SQLDependency_Windows\SQLDependency_Windows\bin\Debug\SQLDependency_Windows.exe.config
+C:\mahesh\vs2017\SQLDependency_Windows\SQLDependency_Windows\bin\Debug\SQLDependency_Windows.exe
+C:\mahesh\vs2017\SQLDependency_Windows\SQLDependency_Windows\bin\Debug\SQLDependency_Windows.pdb
+C:\mahesh\vs2017\SQLDependency_Windows\SQLDependency_Windows\obj\Debug\SQLDependency_Windows.csprojAssemblyReference.cache
+C:\mahesh\vs2017\SQLDependency_Windows\SQLDependency_Windows\obj\Debug\SQLDependency_Windows.Form1.resources
+C:\mahesh\vs2017\SQLDependency_Windows\SQLDependency_Windows\obj\Debug\SQLDependency_Windows.Properties.Resources.resources
+C:\mahesh\vs2017\SQLDependency_Windows\SQLDependency_Windows\obj\Debug\SQLDependency_Windows.csproj.GenerateResource.cache
+C:\mahesh\vs2017\SQLDependency_Windows\SQLDependency_Windows\obj\Debug\SQLDependency_Windows.csproj.CoreCompileInputs.cache
+C:\mahesh\vs2017\SQLDependency_Windows\SQLDependency_Windows\obj\Debug\SQLDependency_Windows.exe
+C:\mahesh\vs2017\SQLDependency_Windows\SQLDependency_Windows\obj\Debug\SQLDependency_Windows.pdb
+C:\mahesh\vs2017\SQLDependency_Windows\SQLDependency_Windows\obj\Debug\SQLDependency_Windows.Form2.resources
